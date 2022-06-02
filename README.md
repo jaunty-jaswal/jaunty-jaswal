@@ -1,5 +1,5 @@
 Hi, I’m Shantanu aka Jaunty <hr>
-I like Ai and machine learning alongwith some python, cpp and c
+I like Ai and machine learning alongwith some python, cpp and c <hr>
 If u are interested in fun and useless projects,, Feel free to join me in..XD
 <!---
 jaunty-jaswal/jaunty-jaswal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
